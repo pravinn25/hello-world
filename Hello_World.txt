@@ -7,5 +7,7 @@ create a branch from master or other branch
 	git checkout -b "branch-name"
 this will create branch in the local. and now push this branch into remote server
 	git push
+
+end of the document
 	
 
